@@ -1,11 +1,7 @@
 node_modules/*
-<<<<<<< HEAD
-# dependencies
-=======
 
 # dependencies
 /node_modules
->>>>>>> develop
 /.pnp
 .pnp.js
 
