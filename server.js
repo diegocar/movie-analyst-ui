@@ -1,7 +1,7 @@
 // Declare our dependencies
 var express = require('express');
 var request = require('superagent');
-var backendHost = process.env.BACK_HOST || 'http://tf-back-elb-web-604811951.us-east-2.elb.amazonaws.com';
+var backendHost = process.env.BACK_HOST || 'tf-back-elb-web-604811951.us-east-2.elb.amazonaws.com/';
 // Create our express app
 var app = express();
 
